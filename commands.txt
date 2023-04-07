@@ -1,5 +1,9 @@
-git init
-git status
-git log
-git commit
-git push
+git init -> to initialize an empty git repository
+git status -> to check the status of untracked files
+git log -> to check all the commits made by user with details of user like username, email, time, hashcode
+git commit -> used to save changes 
+git push -> used to push code to remote repository
+git branch -> to check in which branch you currently are
+git checkout -b branch_name -> to create a new branch
+git restore -> to restore the deleted track file
+git checkout branch_name -> this command will switch to the specified branch_name
