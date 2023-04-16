@@ -1,2 +1,6 @@
 this feature is from developer 1
 
+developer 2 added his changes
+
+now everthing is fine
+
