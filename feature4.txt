@@ -3,14 +3,4 @@ added a new feature by developer 2
 added a new feature by dev 3
 added new feature by dev3
 
-<<<<<<< HEAD
-added a new feature
-=======
-apna new feature add kr diya
-
-sanchit
-sancht
-sanchit
-sing
-singh
->>>>>>> eb8f7a1 (new feature added by sanchit singh)
+new feature added by sanchit singh
