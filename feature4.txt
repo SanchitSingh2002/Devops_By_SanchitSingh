@@ -3,8 +3,4 @@ added a new feature by developer 2
 added a new feature by dev 3
 added new feature by dev3
 
-hello 
-hello
-hello 
-hello
-hello
+added a new feature
