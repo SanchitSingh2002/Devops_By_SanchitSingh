@@ -1,4 +1,5 @@
 added a new feature by developer 2
 
 added a new feature by dev 3
-added another feature by dev3
+
+added new another feature by dev3
